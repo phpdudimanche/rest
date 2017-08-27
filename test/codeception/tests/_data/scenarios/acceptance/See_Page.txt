@@ -1,0 +1,15 @@
+I WANT TO SEE DIFFERENT LANGUAGES
+
+I am on page '/en' 
+I see in title 'Orange Cloud Solutions for Business' 
+I am on page '/fr' 
+I see in title ""Cloud Store - Les solutions Cloud d'Orange pour les entreprises"" 
+I click '#menu-item-5287-en a' 
+I see in title 'Orange Cloud Solutions for Business' 
+I see('en',locator::href '/en')" 
+I see('en',locator::last element '/html/body/div[1]/header/div/div[1]/div/div/div/div[2]/ul/li/a')" 
+I click 'en' 
+I wait "5" 
+I click '/html/body/div[1]/header/div/div[1]/div/div/div/div[2]/ul/li/a' 
+I see in title 'Orange Cloud Solutions for Business'
+

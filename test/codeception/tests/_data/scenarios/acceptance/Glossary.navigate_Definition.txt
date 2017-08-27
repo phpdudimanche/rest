@@ -1,0 +1,9 @@
+I WANT TO NAVIGATE IN GLOSSARY
+
+I am on page '/fr/glossaire' 
+I see in title 'Glossaire - Cloud Store' 
+I see 'C'," 'h4' 
+I click(locator::contains 'h4'," 'C')" 
+I click($this->loc->contains 'h4'," 'C')" 
+I see 'Cloud privés'," 'h4'
+

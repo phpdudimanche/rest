@@ -1,0 +1,21 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Phpdudimanche\\Rest\\": "src/",
+			"Codeception\\Module\\": "test/codeception/module/"
+        }
+	},
+	"require": {
+      "guzzlehttp/guzzle": "~6.0",
+	  "phpunit/phpunit": "*",
+	  "php": "<=5.6.25",
+	  "codeception/codeception": "*",
+	  "behat/behat" : "*",
+	  "phpunit/phpunit-selenium": "*",
+	  "se/selenium-server-standalone": "*",
+	  "behat/mink": "*",
+	  "behat/mink-goutte-driver": "*",
+        "site5/phantoman": "^2.0",
+        "atoum/atoum": "^3.1"	
+   }
+}

@@ -1,0 +1,7 @@
+I WANT TO NAVIGATE IN ALPHA GLOSSARY
+
+I am on page '/fr/glossaire' 
+I see in title 'Glossaire - Cloud Store' 
+I see 'Cloud privés','h4' 
+I see "" Par ordre  alphabétique"",""h4""
+

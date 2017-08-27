@@ -1,0 +1,12 @@
+I WANT TO NAVIGATE IN GLOSSARY
+
+I am on page '/fr/glossaire' 
+I see in title 'Glossaire - Cloud Store' 
+I see 'C'," 'h4' 
+I click(locator::contains 'h4'," 'C')" 
+I see 'Cloud privés'," 'h4' 
+I am on page '/fr' 
+I see in title ""Cloud Store - Les solutions Cloud d'Orange pour les entreprises"" 
+I click '#menu-item-5287-en a' 
+I see in title 'Orange Cloud Solutions for Business'
+

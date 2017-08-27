@@ -1,0 +1,11 @@
+I WANT TO NAVIGATE IN ALPHA GLOSSARY
+
+I am on page '/fr/glossaire' 
+I see in title 'Glossaire - Cloud Store' 
+I see 'Cloud privés','h4' 
+I see 'Datacenter','h4' 
+I grab text from "".tableLettre h4"" 
+I assert not empty "$pos" 
+I click "".tableLettre h4"" 
+I see 'Datacenter','h4'
+
